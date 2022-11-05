@@ -89,9 +89,11 @@ O(n.logn)
 
 ---
 ---
-*-> Proje 3 - Binary Search Tree Projesi'ne ilerlemek için[ tıklayınız.]()*
+*-> Proje 3 - Binary Search Tree Projesi'ne ilerlemek için[ tıklayınız.](https://github.com/agitcelik21/veri-yapilari-ve-algoritmalar/blob/main/Proje%203%20-%20Binary%20Search%20Tree.md)*
 
-*<- Proje 1 - Insertion Sort Projesi'ne dönmek için [tıklayınız.]()*
+*<- Proje 1 - Insertion Sort Projesi'ne dönmek için [tıklayınız.](https://github.com/agitcelik21/veri-yapilari-ve-algoritmalar/blob/main/Proje%201%20-%20Insertion%20Sort.md)*
+
+*-> README.md doyasına dönmek için [tıklayınız.](https://github.com/agitcelik21/veri-yapilari-ve-algoritmalar/blob/main/README.md)*
 
 ---
 ---
