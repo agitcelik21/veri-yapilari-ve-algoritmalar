@@ -128,9 +128,9 @@
 
 ---
 ---
-*-> README.md doyasına dönmek için [tıklayınız.]()*
+*-> README.md doyasına dönmek için [tıklayınız.](https://github.com/agitcelik21/veri-yapilari-ve-algoritmalar/blob/main/README.md)*
 
-*<- Proje 2 - Merge Sort Projesi'ne dönmek için[ tıklayınız.]()*
+*<- Proje 2 - Merge Sort Projesi'ne dönmek için[ tıklayınız.](https://github.com/agitcelik21/veri-yapilari-ve-algoritmalar/edit/main/Proje%202%20-%20Merge%20Sort.md)*
 
 
 ---
