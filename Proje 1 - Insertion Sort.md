@@ -127,9 +127,9 @@ Sıralamanın ortasında bulunduğu için **Average Case** kapsamına grirer.
 ```
 ---
 ---
--> Proje 2 - Merge Sort Projesi'ne ilerlemek için[ tıklayınız.]()
+-> Proje 2 - Merge Sort Projesi'ne ilerlemek için[ tıklayınız.](https://github.com/agitcelik21/veri-yapilari-ve-algoritmalar/blob/main/Proje%202%20-%20Merge%20Sort.md)
 
-<- README.md doyasına dönmek için [tıklayınız.]()
+<- README.md doyasına dönmek için [tıklayınız.](https://github.com/agitcelik21/veri-yapilari-ve-algoritmalar/blob/main/README.md)
 
 ---
 ---
